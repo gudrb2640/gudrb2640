@@ -4,17 +4,16 @@
 - 👨‍💻 I’m currently working on web development technologies like Java,javascript etc.
 - 📚 I’m currently learning spring boot and thymeleaf  😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
----
 
 
 ## Web Projects
+
 - [Personal Blog](https://github.com/gudrb2640/blog)
   
 - [Open Market](https://github.com/gudrb2640/teamproject)
 
 - [Moview Review](https://github.com/gudrb2640/movie-Review)
 
----
 
 
 ## Project Skills :computer:
@@ -35,7 +34,7 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
----
+
 
 ## Currently Learning :beginner:
 ![Spring Boot](http://img.shields.io/badge/-SpringBoot-60B33F?style=flat-square&logo=Springboot&logoColor=ffffff)
@@ -43,13 +42,12 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
 
----
+
 
 ## Thank you for visiting my profile. You're a gem. :gem:
 
 ![Visitor Count](https://profile-counter.glitch.me/gudrb2640/count.svg)
 
-<hr>
 Credits: [ghyeonggyu](https://github.com/gudrb2640)
 
 Last Edited on: 06/09/2021
