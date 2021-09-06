@@ -8,11 +8,12 @@
 
 ## Web Projects
 
-- [Personal Blog](https://github.com/gudrb2640/blog)
+- [Personal Blog](https://github.com/gudrb2640/blog) ![Jsp](https://img.shields.io/badge/-Jsp-%23F7DF1C?style=flat-square&)
   
-- [Open Market](https://github.com/gudrb2640/teamproject)
+- [Open Market](https://github.com/gudrb2640/teamproject) ![Jsp](https://img.shields.io/badge/-Jsp-%23F7DF1C?style=flat-square&)
 
-- [Moview Review](https://github.com/gudrb2640/movie-Review)
+- [Moview Review](https://github.com/gudrb2640/movie-Review) ![Spring Boot](http://img.shields.io/badge/-SpringBoot-60B33F?style=flat-square&logo=Springboot&logoColor=ffffff)
+![Thymeleaf](http://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=ffffff)
 
 
 
